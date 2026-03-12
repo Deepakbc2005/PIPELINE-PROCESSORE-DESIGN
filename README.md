@@ -1,8 +1,8 @@
 # PIPELINE-PROCESSOR-DESIGN
 
 **COMPANY:** CODTECH IT SOLUTIONS  
-**NAME:** Likhith Gowda H R  
-**INTERN ID:** CTISAR20  
+**NAME:** Deepak B C
+**INTERN ID:** CTIS5957
 **DOMAIN:** VLSI  
 **DURATION:** 4 Weeks  
 **MENTOR:** Neela Santosh 
@@ -91,7 +91,7 @@ Power, timing, area, and gate-level synthesis reports are available in the Synth
 ## 📄 Project Report
  
 📥 **Download Full Report:**  
-[Pipelined Processor Simulation Report (PDF)](Project_Report/PIPELINED_PROCESSOR_REPORT.pdf)
+[Pipelined Processor Simulation Report (PDF)](Project_Report/PIPELINE.pdf)
 
 ---
 
